@@ -3,7 +3,7 @@ This repository contains the code of the paper
 
 *Luisa Vargas<sup>\*</sup><sup>1</sup>, Eleonora Poeta<sup>\*</sup><sup>2</sup>, Tania Cerquitelli<sup>2</sup>, Elena Baralis<sup>2</sup>, Maria A. Zuluaga<sup>1</sup>*
 
-\* Denotes equal contribution 
+<sub><sub>\* Denotes equal contribution</sub></sub>
 ---
 
 ## 📦 Quick Installation

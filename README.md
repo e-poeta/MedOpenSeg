@@ -1,10 +1,9 @@
-# MedOpenSeg
-**Open-World Medical Segmentation with Memory-Augmented Transformers** 🧠🧪
+This repository contains the code of the paper  
+**“MedOpenSeg: Open-World Medical Segmentation with Memory-Augmented Transformers.”** _Accepted at **BMVC 2025**_ 🎉
 
-This repository contains the code to reproduce the experiments reported in:  
-**“MedOpenSeg: Open-World Medical Segmentation with Memory-Augmented Transformers.”**  
-_Accepted at BMVC 2025_ 🎉
+*Luisa Vargas<sup>\*</sup><sup>1</sup>, Eleonora Poeta<sup>\*</sup><sup>2</sup>, Tania Cerquitelli<sup>2</sup>, Elena Baralis<sup>2</sup>, Maria A. Zuluaga<sup>1</sup>*
 
+\* Denotes equal contribution 
 ---
 
 ## 📦 Quick Installation
